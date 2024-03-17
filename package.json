@@ -1,0 +1,15 @@
+{
+  "name": "pabau-internship-assingment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "internship-challenge/path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.7.1"
+  }
+}
